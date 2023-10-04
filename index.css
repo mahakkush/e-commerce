@@ -1,0 +1,29 @@
+#mega{
+    display: none;
+    justify-content: center;
+background-color: aqua;
+margin: 0px;
+}
+#mega li{
+    margin: 15px;
+    list-style-type: none;
+    font-size: 12px;
+}
+#mega li a{
+    text-decoration: none;
+    color: none;
+}
+#firstlogo img{
+    width: 200px;
+    height: 200px;
+    border-radius: 60%;
+}
+#firstlogo{
+    display: flex;
+    justify-content: center;
+    margin-top: 10%;
+}.show{
+    width: 2000px;
+    background-color:white;
+    height: 300px;
+}
